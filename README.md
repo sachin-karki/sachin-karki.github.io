@@ -23,4 +23,4 @@
 *Note: for licensing and other legal documents related to the orignial template refer to the LICENSE.txt and READ ME.txt. 
 if you would like to use this template for your portfolio, feel free to use  the elements within this repo*
 
-Made with :heart:, HTML, CSS and VSCode
+Made with :heart:, HTML, CSS and VSCode :)
