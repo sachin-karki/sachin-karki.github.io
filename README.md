@@ -1,4 +1,4 @@
-*Website accessible at https://sachin-karki.github.io/ and https://sachinkarki.com/ *
+*Website accessible at https://sachin-karki.github.io/ and https://sachinkarki.com/*
 ## Important!!!
 ### The design and interface was inspired and created using the photon HTML5 template from [HTML5 UP!](https://html5up.net/) 
 #### Original template can be found at: [Photon at HTML5UP](https://html5up.net/photon)
